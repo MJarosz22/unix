@@ -1,0 +1,1 @@
+zip -rj thirdSubmission.zip ./intro/intro.sh ./pipelines/logParsing.sh ./pipelines/mybook.sh ./script_creation/createSubmission.sh ./script_creation/logToCSV.sh
